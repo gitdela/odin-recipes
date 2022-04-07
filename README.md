@@ -1,2 +1,3 @@
 # odin-recipes
-First web page with HTML & css
+First web page with HTML
+First CSS page
