@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', sans-serif;
+}
+h1 {
+    color: black;
+    font-size: 100px;
+    font-weight: bold;
+}
+.lists {
+    font-size: 40px;
+}

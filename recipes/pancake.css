@@ -1,0 +1,19 @@
+body {
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+}
+figure {
+    text-align: center;
+}
+.imgpic {
+    width: auto;
+    height: 700px;
+}
+h3, h2 {
+    color: lightslategray;
+}
+footer {
+    text-align: center;
+}
