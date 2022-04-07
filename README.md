@@ -1,2 +1,2 @@
 # odin-recipes
-First web page with only HTML
+First web page with HTML & css
